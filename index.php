@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>SD NEGERI 1 INDONESIA</title>
+  <title>SMP NEGERI 1 INDONESIA</title>
 
 
 
@@ -40,7 +40,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SD Negeri 1 Indonesia</title>
+    <title>SMP Negeri 1 Indonesia</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@
                 <nav class="navbar navbar-expand-lg custom_nav-container">
                     <a class="navbar-brand" href="index.php">
                         <img src="images/logo-1.png" alt="Logo Sekolah">
-                        <span>SD NEGERI 1 INDONESIA</span>
+                        <span>SMP NEGERI 1 INDONESIA</span>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -102,7 +102,7 @@
             Edukasi Terbaik
           </h3>
           <h1>
-            Sekolah Dasar Negeri 1 indonesia
+            Sekolah Menengah Pertama 1 indonesia
           </h1>
           <p>
             Melahirkan siswa berprestasi karena dengan adanya pengajaran dari para guru
@@ -268,7 +268,7 @@
           <div class="client_text mt-4">
             <p>
               Hai nama saya Niko cahya pramudya, 
-              saya lulusan SD Negeri 1 Indonesia.
+              saya lulusan SMP Negeri 1 Indonesia.
               Pola pikir yang buruk dimasa kecil membuat seseorang
               jatuh kedalam kebodohan bimbingan yang tepat dimasa kecil 
               menjadi awal yang baik bagi para anak didik, ada juga 
@@ -405,3 +405,4 @@
 <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
 </body>
 </html>
+

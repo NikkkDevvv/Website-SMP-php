@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>SD NEGERI 1 INDONESIA</title>
+  <title>SMP NEGERI 1 INDONESIA</title>
 
 
 
@@ -113,5 +113,6 @@
   </script>
 
 </body>
+
 
 </html>
